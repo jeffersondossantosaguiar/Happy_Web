@@ -1,3 +1,13 @@
+<h1 align="center">Happy</h1>
+
+<img src="https://raw.githubusercontent.com/rocketseat-education/nlw-03-omnistack/master/.github/happy.png" />
+
+Backend do APP Happy desenvolvido na Next Level Week da Rocketseat
+
+# Descrição
+
+Happy é um projeto desenvolvido para criar um link entre casas de acolhimento e pessoas que desejam visitá-las. Onde é possível cadastrá-las e disponibilizar informações sobre visitação a regras sobre.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
