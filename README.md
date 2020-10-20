@@ -8,6 +8,15 @@ Backend do APP Happy desenvolvido na Next Level Week da Rocketseat
 
 Happy é um projeto desenvolvido para criar um link entre casas de acolhimento e pessoas que desejam visitá-las. Onde é possível cadastrá-las e disponibilizar informações sobre visitação a regras sobre.
 
+### Instalação
+``` bash
+# Clonando o repositório
+git clone https://github.com/jeffersondossantosaguiar/Happy_Web.git
+
+# Instalando dependências
+npm install
+````
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
